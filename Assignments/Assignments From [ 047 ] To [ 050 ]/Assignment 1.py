@@ -9,4 +9,4 @@ if num > 0:
         num -= 1
     print(f"{i} Numbers Has Been Printed Successfully.")
 else:
-    print(f"Sorry, The Number You Have Entered ({num}) Is Not Greater Than 0.")
+    print(f"Sorry, The Number You Have Entered ({num+1}) Is Not Greater Than 0.")
